@@ -63,7 +63,6 @@ To run this project, you will need to add the following environment variables to
 
 `MONGODB_URL` , `JWT_SECRET` , `CLOUDINARY_CLOUD_NAME` , `CLOUDINARY_API_KEY` , `CLOUDINARY_API_KEY` , `CLOUDINARY_API_SECRET_KEY`
 
-##### BaseURL = `https://test.onrender.com/`
 
 # API Authentication
 
